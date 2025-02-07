@@ -51,5 +51,11 @@ Este projeto implementa um sistema simples de cadastro e listagem de produtos ut
 - Validação de campos no formulário.
 - Estilização aprimorada para melhor experiência do usuário.
 
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, entre em contato:
+
+- **Autor:** Guilherme Poppi
+- **GitHub:** [Daischi](https://github.com/Daischi)
 
 
